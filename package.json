@@ -1,0 +1,27 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "test api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucabasilecap/hello-world.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Luca Basile",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucabasilecap/hello-world/issues"
+  },
+  "homepage": "https://github.com/lucabasilecap/hello-world#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "body-parser": "^1.19.2"
+  }
+}
